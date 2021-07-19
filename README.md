@@ -1,4 +1,2 @@
 # Hostel-Management-System
-A system built for hostel room allocation for our College(NIT Calicut) as a part of DBMS Course.
-
-### For more details regarding the system please refer to SDD, SRS, UserManual of the system in Documentation folder.
+VISITORS HOSTEL MANAGEMENT SYSTEM IS A PROJECT WHICH AIMS DEVEL-OPING A COMPUTERIZED SYSTEM TO MAINTAIN ALL THE DAILY WORK OF VISITORS HOSTEL. THIS PROJECT HAS MANY FEATURES WHICH ARE GENERALLY NOT AVAILABLE IN NORMAL LIBRARY MANAGEMENT SYSTEM LIKE FACILITY OF USER LOGIN AND FACILITY OF TEACHERS LOGIN.
